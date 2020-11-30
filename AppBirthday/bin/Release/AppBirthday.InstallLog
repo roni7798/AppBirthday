@@ -1,0 +1,13 @@
+﻿Instalando ensamblado 'C:\Users\juven\source\repos\AppBirthday\AppBirthday\bin\Release\AppBirthday.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\juven\source\repos\AppBirthday\AppBirthday\bin\Release\AppBirthday.InstallLog
+   assemblypath = C:\Users\juven\source\repos\AppBirthday\AppBirthday\bin\Release\AppBirthday.exe
+Instalando el servicio AppBirthday...
+El servicio AppBirthday se ha instalado correctamente.
+Creando el origen de EventLog AppBirthday en el registro Application...
+Confirmando ensamblado 'C:\Users\juven\source\repos\AppBirthday\AppBirthday\bin\Release\AppBirthday.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\juven\source\repos\AppBirthday\AppBirthday\bin\Release\AppBirthday.InstallLog
+   assemblypath = C:\Users\juven\source\repos\AppBirthday\AppBirthday\bin\Release\AppBirthday.exe

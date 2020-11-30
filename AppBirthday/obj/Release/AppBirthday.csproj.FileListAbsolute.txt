@@ -1,0 +1,9 @@
+C:\Users\juven\source\repos\AppBirthday\AppBirthday\bin\Release\AppBirthday.exe.config
+C:\Users\juven\source\repos\AppBirthday\AppBirthday\bin\Release\AppBirthday.exe
+C:\Users\juven\source\repos\AppBirthday\AppBirthday\bin\Release\AppBirthday.pdb
+C:\Users\juven\source\repos\AppBirthday\AppBirthday\obj\Release\AppBirthday.AppBirthday.resources
+C:\Users\juven\source\repos\AppBirthday\AppBirthday\obj\Release\AppBirthday.csproj.GenerateResource.cache
+C:\Users\juven\source\repos\AppBirthday\AppBirthday\obj\Release\AppBirthday.csproj.CoreCompileInputs.cache
+C:\Users\juven\source\repos\AppBirthday\AppBirthday\obj\Release\AppBirthday.exe
+C:\Users\juven\source\repos\AppBirthday\AppBirthday\obj\Release\AppBirthday.pdb
+C:\Users\juven\source\repos\AppBirthday\AppBirthday\obj\Release\AppBirthday.ProjectInstaller.resources

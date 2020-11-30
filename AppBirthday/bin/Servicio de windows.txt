@@ -1,0 +1,8 @@
+Crear:
+
+sc create AppBirthday binpath= "C:\Users\juven\source\repos\AppBirthday\AppBirthday\bin\Debug\AppBirthday.exe"
+
+Borrar:
+
+
+sc delete AppBirthday binpath= "C:\Users\juven\source\repos\AppBirthday\AppBirthday\bin\Debug\AppBirthday.exe"
