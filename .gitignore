@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AppBirthday/copilot-chat/f8c556d8/sessions
+/.vs/AppBirthday/CopilotIndices/17.14.1231.31060
+/.vs/AppBirthday/FileContentIndex
+*.cache
+/AppBirthday/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
