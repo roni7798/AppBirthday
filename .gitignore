@@ -8,3 +8,4 @@
 *.cache
 /AppBirthday/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 /.vs/AppBirthday/v17
+/AppBirthday/.vs/AppBirthday.csproj.dtbcache.json
